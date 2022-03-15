@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    color: rgb(230, 255, 4);
+    
+}
+button {
+    background-color: #4CAF50; /* Green */
+    border: 10;
+    color: white;
+    padding: 10px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline;
+    font-size: 20px;
+  }
+  h1{
+      display: block;
+      background-color: rgb(9, 94, 65);
+      font-size: 100px;
+     
+  }
+  p{
+      font-size: x-large;
+      color: blue;
+  }
