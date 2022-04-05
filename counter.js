@@ -30,5 +30,6 @@ function h8(){
     a = a + " + "
     document.getElementById("co").textContent += a ;
     a = 0
-
+    document.getElementById("h1").innerHTML = 0;
 }
+  
